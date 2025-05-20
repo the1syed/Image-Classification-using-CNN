@@ -17,5 +17,5 @@ This project demonstrates how to build and train a **Convolutional Neural Networ
 - Pandas (optional)
 - Jupyter Notebook
 
-## 📁 Folder Structure
+
 
